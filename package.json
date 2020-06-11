@@ -1,16 +1,16 @@
 {
-	"name": "sindresorhus",
+	"name": "donburks",
 	"version": "2.1.0",
-	"description": "The Sindre Sorhus CLI",
+	"description": "The Don Burks CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "donburks/donburks-cli",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Don Burks",
+		"email": "don@donburks.com",
+		"url": "donburks.com"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"donburks": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
@@ -24,8 +24,7 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
-		"unicorns"
+		"donburks"
 	],
 	"dependencies": {
 		"import-jsx": "^2.0.0",
